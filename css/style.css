@@ -1,0 +1,33 @@
+/* This is a comment in CSS */
+
+/* Define a class for the body element */
+body {
+    /* Add some styling properties here */
+    color: #333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Define a class for the heading elements */
+  h1, h2, h3 {
+    /* Add some styling properties here */
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  /* Define a class for the paragraph elements */
+  p {
+    /* Add some styling properties here */
+    font-size: 18px;
+    line-height: 1.5;
+    margin: 20px 0;
+  }
+  
+  /* Define a class for the anchor elements */
+  a {
+    /* Add some styling properties here */
+    color: #0077cc;
+    text-decoration: none;
+  }
+  
